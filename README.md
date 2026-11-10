@@ -65,23 +65,6 @@ ShopEase/
     └── order.png
 ```
 
-## Screenshots
-
-### Home Page
-![ShopEase Home Page](screenshots/homepage.png)
-
-### Products Section
-![ShopEase Products](screenshots/products.png)
-
-### Shopping Cart
-![ShopEase Shopping Cart](screenshots/cart.png)
-
-### Checkout
-![ShopEase Checkout](screenshots/checkout.png)
-
-### Order Confirmation
-![ShopEase Order Confirmation](screenshots/order.png)
-
 ## How to Run the Project
 
 1. Download or clone the repository.
