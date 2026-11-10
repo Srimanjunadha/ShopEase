@@ -8,7 +8,7 @@ The project provides an interactive and user-friendly shopping experience with p
 
 ## Live Preview
 
-👉 **View Live Demo:**http://127.0.0.1:5500/index.html
+👉 **View Live Demo:https://srimanjunadha.github.io/ShopEase/
 
 ## Key Features
 
