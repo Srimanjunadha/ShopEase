@@ -1,14 +1,14 @@
 # 🛒 ShopEase – Online Store Cart & Order Pipeline
 
+## Project Overview
+
 ShopEase is a simple online shopping application that allows customers to browse products, add items to their shopping cart, manage quantities, calculate the total price, and place orders using different payment methods.
 
-This project demonstrates the use of HTML, CSS, and JavaScript** to develop an online shopping system with product management, cart operations, checkout, and order processing.
-
-The frontend is built using HTML, CSS, and JavaScript, providing an interactive and responsive shopping experience.
+The project provides an interactive and user-friendly shopping experience with product browsing, cart management, checkout, and order confirmation.
 
 ## Live Preview
 
-👉 **View Live Demo:** http://127.0.0.1:5500/index.html
+👉 **View Live Demo:** http://127.0.0.1:5500/
 
 ## Key Features
 
@@ -20,75 +20,26 @@ The frontend is built using HTML, CSS, and JavaScript, providing an interactive 
 - Place orders through the checkout process.
 - Support UPI and Cash on Delivery (COD) payment options.
 - Generate unique order IDs.
-- Display order details, payment method, and order status.
-- Responsive user interface for different screen sizes.
-- Simple and user-friendly navigation.
+- Display order details and payment information.
+- Show order confirmation and status.
+- Responsive user interface.
+- Simple navigation between Home, Products, Cart, and Orders.
 
 ## Technologies Used
 
-- Java
-- HTML5
-- CSS3
-- JavaScript
-- Java Collections Framework
-- Object-Oriented Programming System(OOPS)
-- Exception Handling
-- File Handling
-- Stream API
+- **HTML5** – Structure of the webpage.
+- **CSS3** – Styling and responsive design.
+- **JavaScript** – Product display, cart management, checkout, and order processing.
 
-## Project Structure
+## How to Use
 
-```text
-ShopEase/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── Java/
-│   ├── Customer.java
-│   ├── Product.java
-│   ├── ShoppingCart.java
-│   ├── OrderManagement.java
-│   ├── Payment.java
-│   ├── ValidateService.java
-│   ├── SearchService.java
-│   ├── ReportGenerationService.java
-│   ├── AnalysisService.java
-│   └── Main.java
-│
-└── screenshots/
-    ├── homepage.png
-    ├── products.png
-    ├── cart.png
-    ├── checkout.png
-    └── order.png
-```
-
-## How to Run the Project
-
-1. Download or clone the repository.
-2. Open the project folder in Visual Studio Code.
-3. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
-4. Open `index.html` in your browser.
-5. Browse the available products.
-6. Click **Add to Cart** to add products.
-7. Manage your cart and check the total amount.
-8. Click **Place Order** and select UPI or COD.
-9. View your order details in the Order Management section.
-
-## Future Enhancements
-
-- User registration and login.
-- Database integration for storing customer and order details.
-- Admin dashboard for product and inventory management.
-- Online payment gateway integration.
-- Product search and category filtering.
-- Order tracking and management.
-- Improved user experience and security.
-
-## Conclusion
-
-ShopEase provides a simple online shopping experience while demonstrating important programming concepts and web development technologies. It combines product browsing, shopping cart management, payment selection, and order processing in one application.
-
-**Developed as a Java Project.**
+1. Open the ShopEase website.
+2. Navigate to the **Products** section.
+3. Browse the available products and their prices.
+4. Click **Add to Cart** to add products.
+5. Navigate to the **Cart** section to view selected items.
+6. Click **Remove** to remove products from your cart.
+7. Check the automatically calculated total amount.
+8. Click **Place Order** to proceed with checkout.
+9. Enter your preferred payment method (UPI or COD).
+10. View your Order ID, total amount, payment method, and order status in the **Order Management** section.
